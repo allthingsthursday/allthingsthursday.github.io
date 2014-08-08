@@ -1,0 +1,16 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>all things thursday</title>
+ <link href="http://allthingsthursday.github.io/atom.xml" rel="self"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://allthingsthursday.github.io</id>
+ <author>
+   <name>all things thursday</name>
+ </author>
+
+</feed>
+
