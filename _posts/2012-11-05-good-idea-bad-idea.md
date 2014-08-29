@@ -2,7 +2,6 @@
 layout: post
 title:  "Good idea/Bad idea"
 date:   2012-11-05 10:39:00
-categories: SEP
 ---
 
 As software engineers, we have ideas all the time. It's part of our job. 
